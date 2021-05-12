@@ -1,6 +1,6 @@
 ### Nice to meet you! 👋
 
-You've found my profile. In short, I'm a Front-End developer from Stockholm, Sweden and currently open to work.
+You've found my profile. In short, I'm a Front-End developer from Stockholm, Sweden.
 
 My favorite technologies include but are not limited to: 
 
